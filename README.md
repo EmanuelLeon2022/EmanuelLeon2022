@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmanuelLeon2022
 - 👀 I’m interested in random things.
-- 🌱 I’m currently learning Javascript & REACT.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, 
 - 😄 Gender: Male
